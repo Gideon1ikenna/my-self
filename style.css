@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(228, 236, 238);
+    text-align: center;
+}
+.spar{
+    
+    background-color: white;
+    background-position:center;
+   
+    padding-top: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    height: 450px;
+    margin-left: 450px;
+    margin-top:60px;
+    border-radius: 10px;
+    padding-bottom: 25px;
+}
+h4{
+    font-size: larger;
+    font-weight: 900;
+    color: rgb(26, 79, 122);
+}
+img{
+    border-radius: 10px;
+}
+p{
+    color:rgb(139, 162, 169);
+}
